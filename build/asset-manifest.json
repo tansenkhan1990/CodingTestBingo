@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodingTestBingo/static/css/main.e9811724.css",
+    "main.js": "/CodingTestBingo/static/js/main.2e388f22.js",
+    "index.html": "/CodingTestBingo/index.html",
+    "main.e9811724.css.map": "/CodingTestBingo/static/css/main.e9811724.css.map",
+    "main.2e388f22.js.map": "/CodingTestBingo/static/js/main.2e388f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9811724.css",
+    "static/js/main.2e388f22.js"
+  ]
+}
